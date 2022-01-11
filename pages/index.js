@@ -52,7 +52,7 @@ export default function Home() {
           <div class="container px-5 py-24 mx-auto flex flex-wrap">
             <h2 class="sm:text-3xl text-2xl text-white font-medium title-font mb-2 md:w-2/5">What are Pixel Dice?</h2>
             <div class="md:w-3/5 md:pl-6">
-              <p class="leading-relaxed text-4xl">Pixel Dice is a collection of 10000 pixelated dice that live on in the blockchain, each one unique!</p>
+              <p class="leading-relaxed text-4xl">This project is a collection of NFT representing dice with different colors and specifications.</p>
               <div class="flex md:mt-4 mt-6">
               <button class="ml-4 inline-flex text-white bg-red-700 border-0 py-2 px-6 focus:outline-none hover:bg-slate-700 hover:text-white rounded text-lg">OpenSea</button>
                 <a class="text-indigo-400 inline-flex items-center ml-4">Join our Discord 
@@ -60,6 +60,57 @@ export default function Home() {
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
                 </a>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* New About */}
+        <section class="text-gray-400 bg-gray-900 body-font">
+          <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-col text-center w-full mb-20">
+              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">What are Pixel Dice?</h1>
+              <p class="lg:w-2/3 mx-auto leading-relaxed text-base">This project is a collection of NFT representing dice with different colors and specifications.</p>
+            </div>
+            <div class="flex flex-wrap -m-4 text-center">
+              <div class="p-4 md:w-1/4 sm:w-1/2 w-full">
+                <div class="border-2 border-gray-800 px-4 py-6 rounded-lg">
+                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="text-indigo-400 w-12 h-12 mb-3 inline-block" viewBox="0 0 24 24">
+                    <path d="M8 17l4 4 4-4m-4-5v9"></path>
+                    <path d="M20.88 18.09A5 5 0 0018 9h-1.26A8 8 0 103 16.29"></path>
+                  </svg>
+                  <h2 class="title-font font-medium text-3xl text-white">10K</h2>
+                  <p class="leading-relaxed">Total Supply</p>
+                </div>
+              </div>
+              <div class="p-4 md:w-1/4 sm:w-1/2 w-full">
+                <div class="border-2 border-gray-800 px-4 py-6 rounded-lg">
+                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="text-indigo-400 w-12 h-12 mb-3 inline-block" viewBox="0 0 24 24">
+                    <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"></path>
+                    <circle cx="9" cy="7" r="4"></circle>
+                    <path d="M23 21v-2a4 4 0 00-3-3.87m-4-12a4 4 0 010 7.75"></path>
+                  </svg>
+                  <h2 class="title-font font-medium text-3xl text-white">@ADMIN</h2>
+                  <p class="leading-relaxed">Artist</p>
+                </div>
+              </div>
+              <div class="p-4 md:w-1/4 sm:w-1/2 w-full">
+                <div class="border-2 border-gray-800 px-4 py-6 rounded-lg">
+                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="text-indigo-400 w-12 h-12 mb-3 inline-block" viewBox="0 0 24 24">
+                    <path d="M3 18v-6a9 9 0 0118 0v6"></path>
+                    <path d="M21 19a2 2 0 01-2 2h-1a2 2 0 01-2-2v-3a2 2 0 012-2h3zM3 19a2 2 0 002 2h1a2 2 0 002-2v-3a2 2 0 00-2-2H3z"></path>
+                  </svg>
+                  <h2 class="title-font font-medium text-3xl text-white">128</h2>
+                  <p class="leading-relaxed">Total Specifications</p>
+                </div>
+              </div>
+              <div class="p-4 md:w-1/4 sm:w-1/2 w-full">
+                <div class="border-2 border-gray-800 px-4 py-6 rounded-lg">
+                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="text-indigo-400 w-12 h-12 mb-3 inline-block" viewBox="0 0 24 24">
+                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                  </svg>
+                  <h2 class="title-font font-medium text-3xl text-white">0.01</h2>
+                  <p class="leading-relaxed">Floor Price</p>
+                </div>
               </div>
             </div>
           </div>

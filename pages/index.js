@@ -28,12 +28,12 @@ export default function Home() {
       </header>
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
-        
-        <section class="text-black   bg-transparent body-font w-[100vw] bg-bottom bg-no-repeat" style={{backgroundImage: 'url(/Cloudy.svg)'}}>
+        {/* bg Image gets defined here */}
+        <section class="text-black bg-transparent body-font w-[100vw] bg-cover bg-fixed bg-no-repeat" style={{backgroundImage: 'url(/Luminary.svg)'}}>
           <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
             <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-              <h1 class="title-font sm:text-6xl text-4xl mb-4 font-medium text-black opacity-90 tracking-wider z-10">Meet the Squishy Kitties, 
-                <br class="hidden lg:inline-block"/> all hand drawn!
+              <h1 class="title-font sm:text-6xl text-4xl mb-4 font-medium text-black opacity-90 tracking-wider z-10">Every Pixel Dice 
+                <br class="hidden lg:inline-block"/> is unique
               </h1>
               <p class="mb-8 leading-relaxed opacity-70 text-xl">These furry friends are looking for a cuddle and a new home</p>
               <div class="flex justify-center">
@@ -42,7 +42,7 @@ export default function Home() {
               </div>
             </div>
             <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-              <img class="object-cover object-center rounded" alt="hero" src="https://lh3.googleusercontent.com/gMG8XiVkJBDjEV0PzsGQiLZiAQUJ1XP8uvmhRw71TINcMI_dTLVR7LzJmXK4PraFHiwb61gRYj6vHLFgIGRcHNTszTEsvkwquoidem4=w600"/>
+              <img class="object-cover object-center rounded" alt="hero" src="pixeldiceavie.png"/>
             </div>
           </div>
         </section>

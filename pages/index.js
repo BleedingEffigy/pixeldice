@@ -105,6 +105,7 @@ export default function Home() {
               </div>
             </div>
             <div class="flex flex-wrap justify-center md:mt-10 mt-6">
+              <p class="w-full pb-4 text-2xl font-medium">I hope you will enjoy it!</p>
               <button class="ml-4 inline-flex text-white bg-red-700 border-0 py-2 px-6 focus:outline-none hover:bg-slate-700 hover:text-white rounded text-lg">OpenSea</button>
                 <a class="text-red-500 inline-flex items-center ml-4">Join our Discord 
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">

@@ -81,7 +81,7 @@ export default function Home() {
                     <circle cx="9" cy="7" r="4"></circle>
                     <path d="M23 21v-2a4 4 0 00-3-3.87m-4-12a4 4 0 010 7.75"></path>
                   </svg>
-                  <h2 class="title-font font-medium text-3xl text-white">@ADMIN</h2>
+                  <h2 class="title-font font-medium text-3xl text-white">@ARMPRODUCTION</h2>
                   <p class="leading-relaxed">Artist</p>
                 </div>
               </div>
@@ -107,7 +107,7 @@ export default function Home() {
             <div class="flex flex-wrap justify-center md:mt-10 mt-6">
               <p class="w-full pb-4 text-2xl font-medium">I hope you will enjoy it!</p>
               <button class="ml-4 inline-flex text-white bg-red-700 border-0 py-2 px-6 focus:outline-none hover:bg-slate-700 hover:text-white rounded text-lg">OpenSea</button>
-                <a class="text-red-500 inline-flex items-center ml-4">Join our Discord 
+                <a class="text-red-500 inline-flex items-center ml-4" href="https://discord.gg/SrGJ2GGhVZ">Join our Discord 
                   <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                   </svg>
@@ -128,9 +128,9 @@ export default function Home() {
                 <div class="h-full flex flex-col items-center text-center">
                   <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://dummyimage.com/200x200"/>
                   <div class="w-full">
-                    <h2 class="title-font font-medium text-lg text-white">Arm Production</h2>
+                    <h2 class="title-font font-medium text-lg text-white">ARMPRODUCTION</h2>
                     <h3 class="text-slate-500 mb-3">CEO</h3>
-                    <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+                    <p class="mb-4"></p>
                     <span class="inline-flex">
                       <a class="text-slate-700">
                         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" strokeWidth="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -157,7 +157,7 @@ export default function Home() {
                   <div class="w-full">
                     <h2 class="title-font font-medium text-lg text-white">CrypticAlex</h2>
                     <h3 class="text-slate-500 mb-3">Server Manager</h3>
-                    <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+                    <p class="mb-4"></p>
                     <span class="inline-flex">
                       <a class="text-slate-700">
                         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" strokeWidth="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -184,7 +184,7 @@ export default function Home() {
                   <div class="w-full">
                     <h2 class="title-font font-medium text-lg text-white">SpinSpinFrog</h2>
                     <h3 class="text-slate-500 mb-3">Marketing</h3>
-                    <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+                    <p class="mb-4"></p>
                     <span class="inline-flex">
                       <a class="text-slate-700">
                         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" strokeWidth="2" class="w-5 h-5" viewBox="0 0 24 24">

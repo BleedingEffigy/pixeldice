@@ -81,7 +81,7 @@ export default function Home() {
                     <circle cx="9" cy="7" r="4"></circle>
                     <path d="M23 21v-2a4 4 0 00-3-3.87m-4-12a4 4 0 010 7.75"></path>
                   </svg>
-                  <h2 class="title-font font-medium text-3xl text-white">@ARMPRODUCTION</h2>
+                  <h2 class="title-font font-medium text-3xl text-white">ARMPRODUCTION</h2>
                   <p class="leading-relaxed">Artist</p>
                 </div>
               </div>
